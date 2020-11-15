@@ -1,0 +1,7 @@
+name: Hunterworld2
+main: me.Bokum.Luby.Main
+version: 0.81
+description: bokum's plugin!
+commands:
+  lc:
+    description: lc

@@ -1,0 +1,7 @@
+name: Shield
+main: me.Bokum.Shield.Main
+version: 0.30
+description: bokum's plugin!
+commands:
+  shield:
+    description: shield

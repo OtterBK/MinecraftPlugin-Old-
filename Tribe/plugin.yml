@@ -1,0 +1,21 @@
+name: Trbie
+main: me.Bokum.Tribe.Main
+version: 0.33
+description: bokum's plugin!
+commands:
+  tribe:
+    description: tribe
+  tribeset:
+    description: tribE
+  수리:
+    description: tribe
+  스탯:
+    description: tribe
+  stat:
+    description: tribe
+  statreset:
+    description: tribe
+  statset:
+    description: tribe
+  returnstat:
+    description: tribe

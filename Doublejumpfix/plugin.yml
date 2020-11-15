@@ -1,0 +1,9 @@
+name: DoubleJumper
+version: 0.1
+description: Simple Double-Jumping!
+author: jrneulight
+main: me.jrneulight.doublejumper.Main
+permissions:
+  doublejump.use:
+    description: Allows you to double jump
+    default: true

@@ -1,0 +1,4 @@
+name: MenuInv
+version: 1.0
+main: me.pogostick29.menuinv.MenuInv
+description: Change your gamemode with a menu!

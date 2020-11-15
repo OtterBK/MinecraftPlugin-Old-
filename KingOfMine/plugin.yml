@@ -1,0 +1,7 @@
+name: KingOfMine
+version: 0.96
+description: Made by Bokum!
+main: me.Bokum.KingOfMine.Main
+commands:
+  kom:
+    description: kom

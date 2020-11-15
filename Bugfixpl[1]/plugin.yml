@@ -1,0 +1,5 @@
+name: BugFixer1
+main: me.Bokum.Fixer1.Main
+version: 0.01
+description: bokum's plugin!
+commands:

@@ -1,0 +1,7 @@
+name: PhantasyWar
+main: me.Bokum.PhantasyWar.Main
+version: 1.00
+description: bokum's plugin!
+commands:
+  pw:
+    description: PhantasyWar Command

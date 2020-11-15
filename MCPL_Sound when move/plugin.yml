@@ -1,0 +1,8 @@
+name: Soundwhenmove
+main: me.Bokum.Soundwhenmove.Main
+version: 0.7
+description: Second plugin of Bokum
+commands:
+  swm:
+    description: swm
+  

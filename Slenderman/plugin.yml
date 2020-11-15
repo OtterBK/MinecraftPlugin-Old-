@@ -1,0 +1,7 @@
+name: Slenderman
+main: me.Bokum.Slenderman.Main
+version: 0.01
+description: Hanji's plugin!
+commands:
+  sdm:
+    description: slenderman command

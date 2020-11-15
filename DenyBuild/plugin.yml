@@ -1,0 +1,5 @@
+name: DenyBuild
+main: me.Bokum.DenyBuild.Main
+version: 0.5
+description: bokum's plugin!
+commands:

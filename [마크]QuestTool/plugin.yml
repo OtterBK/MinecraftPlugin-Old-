@@ -1,0 +1,7 @@
+name: EGSkyQuestTool
+main: QuestTool.Main.Main
+version: 1.00
+description: bokum's plugin!
+commands:
+  퀘스트제작:
+    description: create new Quest

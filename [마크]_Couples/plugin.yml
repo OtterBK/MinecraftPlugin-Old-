@@ -1,0 +1,13 @@
+name: Couple
+main: me.Bokum.Couples.Main
+version: 0.01
+description: bokum's plugin!
+commands:
+  solo:
+    description: EG server Main System Command
+  couple:
+    description: Allvoice Command
+  list:
+    description: SendResponse Command
+  init:
+    description: asdsf

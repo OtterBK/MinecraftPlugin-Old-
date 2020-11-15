@@ -1,0 +1,7 @@
+name: BlackApple
+main: me.Bokum.BlackApple.Main
+version: 1.00
+description: bokum's plugin!
+commands:
+  ba:
+    description: BlackApple Command

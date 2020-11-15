@@ -1,0 +1,7 @@
+name: Jobset
+version: 0.94
+description: Made by Bokum!
+main: me.Bokum.Jobset.Main
+commands:
+  js:
+    description: js

@@ -1,0 +1,7 @@
+name: BattleOfTribe
+main: me.Bokum.BOT.Main
+version: 0.05
+description: bokum's plugin!
+commands:
+  bot:
+    description: bot

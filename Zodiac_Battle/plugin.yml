@@ -1,0 +1,7 @@
+name: Zodiac_Battle
+main: me.Bokum.Zodiac_Battle.Main
+version: 0.12
+description: bokum's plugin!
+commands:
+  zb:
+    description: zb

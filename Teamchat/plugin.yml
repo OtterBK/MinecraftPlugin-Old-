@@ -1,0 +1,7 @@
+name: Teamchat
+main: me.Bokum.Teamchat.Main
+version: 0.6
+description: Teamchat plugin!
+commands:
+  tc:
+    description: tc

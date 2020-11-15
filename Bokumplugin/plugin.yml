@@ -1,0 +1,4 @@
+name: Bokumplugin
+main: me.Bokum.testpackage.Pluginonoffmessage
+version: 0.01
+description: Bokum's study plugin

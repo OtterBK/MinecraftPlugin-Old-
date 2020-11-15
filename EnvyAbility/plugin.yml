@@ -1,0 +1,7 @@
+name: EnvyAbility
+main: me.Bokum.envy.Main
+version: 0.6
+description: bokum's plugin!
+commands:
+  ea:
+    description: ea

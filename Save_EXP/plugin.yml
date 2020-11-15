@@ -1,0 +1,5 @@
+name: SaveEXP
+main: me.Bokum.SaveEXP.Main
+version: 1.00
+description: bokum's plugin!
+commands:

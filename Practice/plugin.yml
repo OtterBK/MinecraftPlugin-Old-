@@ -1,0 +1,5 @@
+name: practice
+main: me.Darong.practice.main
+version: 0.1
+description: Bem4 hello
+commands:

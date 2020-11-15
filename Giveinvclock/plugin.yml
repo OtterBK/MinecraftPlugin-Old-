@@ -1,0 +1,5 @@
+name: GiveClock
+main: me.Bokum.Giveinvclock.Main
+version: 0.13
+description: bokum's plugin!
+commands:

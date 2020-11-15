@@ -1,0 +1,6 @@
+name: RegionPlugin
+main: me.Bokum.Region.Main
+version: 0.01
+description: bokum's plugin!
+commands:
+

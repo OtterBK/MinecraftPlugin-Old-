@@ -1,0 +1,5 @@
+name: Spectate
+main: me.Bokum.Spectate.Main
+version: 0.5
+description: spectate plugin!
+commands:

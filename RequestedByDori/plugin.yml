@@ -1,0 +1,7 @@
+name: RegionPlate
+main: me.Bokum.RBD.Main
+version: 1.00
+description: bokum's plugin!
+commands:
+  rbd:
+    description: Base Command

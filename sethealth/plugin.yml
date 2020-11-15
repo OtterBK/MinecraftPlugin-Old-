@@ -1,0 +1,5 @@
+name: Limitexp
+main: me.Bokum.Health.Main
+version: 0.10
+description: bokum's plugin!
+commands:

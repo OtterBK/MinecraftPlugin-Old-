@@ -1,0 +1,8 @@
+name: changeinv
+main: me.bokum.changeinv.main
+version: 1.02
+description: First plugin of Bokum
+commands:
+  cinv:
+    description: cinv
+  

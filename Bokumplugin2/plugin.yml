@@ -1,0 +1,7 @@
+name: EmptyHand
+main: me.Bokum.study2.Main
+version: 0.01
+description: 손삭
+commands:
+  손삭:
+  description: 손에 든 물건을 삭제합니다.

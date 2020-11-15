@@ -1,0 +1,7 @@
+name: SimpleMoneyItem
+main: me.Bokum.SMI.Main
+version: 1.0.0
+description: bokum's plugin!
+commands:
+  화폐:
+    description: 화폐

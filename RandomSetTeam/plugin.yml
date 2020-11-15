@@ -1,0 +1,9 @@
+name: RandomSetTeam
+main: me.Bokum.RST.Main
+version: 1.00
+description: bokum's plugin!
+commands:
+  start:
+    description: team set Command
+  gamestop:
+    description: stop Command

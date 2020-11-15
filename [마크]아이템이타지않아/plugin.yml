@@ -1,0 +1,6 @@
+name: NoBurnItem
+main: me.Bokum.DoNotBurnItem.Main
+version: 1.00
+description: Bokum' Plugin
+commands:
+

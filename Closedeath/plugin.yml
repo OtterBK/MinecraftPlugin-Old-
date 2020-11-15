@@ -1,0 +1,7 @@
+name: Death when close
+main: me.Bokum.closedeath.Main
+version: 0.55
+description: bokum's plugin!
+commands:
+  dwc:
+    description: dwc

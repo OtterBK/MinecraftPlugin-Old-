@@ -1,0 +1,7 @@
+name: ZombieWorld
+main: me.Bokum.ZombieW.Main
+version: 0.01
+description: bokum's plugin!
+commands:
+  zw:
+    description: zw

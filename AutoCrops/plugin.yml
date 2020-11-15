@@ -1,0 +1,5 @@
+name: AutoCrops
+main: me.Bokum.AutoCrops.Main
+version: 1.00
+description: first Plugin!
+commands:

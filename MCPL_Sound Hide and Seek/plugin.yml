@@ -1,0 +1,7 @@
+name: SHS
+main: me.Bokum.SoundHideandSeek.Main
+version: 0.1
+description: bokum's plugin!
+commands:
+  shs:
+    description: shs

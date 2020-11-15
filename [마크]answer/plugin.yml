@@ -1,0 +1,7 @@
+name: EmptyHand
+main: com.GoldBigDragon.EmptyHand.Main
+version: 1.0
+description: EmptyHand
+commands:
+  emptyh:
+    description: empty hand

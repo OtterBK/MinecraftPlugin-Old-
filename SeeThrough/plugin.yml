@@ -1,0 +1,7 @@
+name: SeeThrough
+main: me.Bokum.SeeThrough.Main
+version: 0.05
+description: bokum's plugin!
+commands:
+  st:
+    description: st

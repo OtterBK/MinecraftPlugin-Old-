@@ -1,0 +1,7 @@
+name: BlockChange
+main: me.Bokum.BlockChange.Main
+version: 1.00
+description: bokum's plugin!
+commands:
+  bbc:
+    description: Main Command

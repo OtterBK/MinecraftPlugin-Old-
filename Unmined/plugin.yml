@@ -1,0 +1,7 @@
+name: Unmined
+main: me.Bokum.Unmined.Main
+version: 0.35
+description: bokum's plugin!
+commands:
+  um:
+    description: base command

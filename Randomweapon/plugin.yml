@@ -1,0 +1,9 @@
+name: Randomweapon
+main: me.bokum.randomweapon.Main
+version: 0.03
+description: randomweapon plugin!
+commands:
+  rw:
+    description: rw
+  dirtest:
+    description: dir

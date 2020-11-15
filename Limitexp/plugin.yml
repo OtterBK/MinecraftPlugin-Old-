@@ -1,0 +1,7 @@
+name: LimitLevel
+main: me.Bokum.Limitexp.Main
+version: 0.06
+description: Bokum's plugin
+commands:
+
+  

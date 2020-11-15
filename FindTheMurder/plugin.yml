@@ -1,0 +1,7 @@
+name: Find The Murder
+main: me.Bokum.FindTheMurder.Main
+version: 0.99
+description: bokum's plugin!
+commands:
+  ftm:
+    description: ftm

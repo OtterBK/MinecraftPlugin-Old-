@@ -1,0 +1,7 @@
+name: limeTp
+main: me.Bokum.LimeTP.Main
+version: 1.00
+description: Bokum' Plugin
+commands:
+  limetp:
+    description: limetp's command
